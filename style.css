@@ -257,4 +257,9 @@ content:" ↗";
     animation-fill-mode:forwards;
 }
 
+
+#home .content {
+  padding:20%!important;
+  }
+
 }
