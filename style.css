@@ -91,7 +91,7 @@ span.view-more-link:hover {
 }
 
 .home-page-heading {
-  padding-top:50px;
+  padding-top:20px;
   padding-left:20px;
 }
 
@@ -218,6 +218,8 @@ span.view-more-link:hover {
 
 #center-content button {
 font-weight: bold;
+margin-left:10px;
+color: #fff;
 }
 
 button.w3-button.w3-black.w3-round-large {
@@ -245,7 +247,7 @@ content:" ↗";
 
 .content {
   color:#fff;
-  padding-right:50%;
+  padding-right:40%;
 }
 
 @media only screen and (max-width: 1000px) {
