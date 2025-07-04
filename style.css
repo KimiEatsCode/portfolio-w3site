@@ -250,6 +250,10 @@ content:" ↗";
   padding-right:40%;
 }
 
+.content li {
+  padding: 10px 0;
+}
+
 @media only screen and (max-width: 1000px) {
 
   .view-more-link span{
