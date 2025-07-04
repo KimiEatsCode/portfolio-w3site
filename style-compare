@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,900,700,500);
-@import url("https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined");
-
-/*import material symbols link below does not work
-/* @import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"); */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined');
 
 html {
   scroll-behavior:smooth;
@@ -21,7 +18,6 @@ body {
   rotate 2s;
   background-color: "#D5006D";
 }
-
 
 h1, h2 {
   color:#fff;
@@ -46,6 +42,7 @@ ul {
 li {
   padding: 10px 0;
 }
+
 
 span.view-more-link {
   font-size:80px;
@@ -265,7 +262,6 @@ content:" ↗";
   color:#fff;
   padding-right:40%;
 }
-
 
 @media only screen and (max-width: 1000px) {
 
