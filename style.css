@@ -268,4 +268,10 @@ content:" ↗";
   padding-right:20%!important;
   }
 
+#center-content button {
+font-weight: bold;
+margin-left:10px;
+margin-top:10px;
+color: #fff;
+}
 }
