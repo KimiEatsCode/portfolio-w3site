@@ -250,12 +250,6 @@ content:" ↗";
   padding-right:40%;
 }
 
-.content ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
 @media only screen and (max-width: 1000px) {
 
   .view-more-link span{
