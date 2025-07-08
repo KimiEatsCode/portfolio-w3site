@@ -40,6 +40,12 @@ h2 {
   font-size:2em;
 }
 
+h3 {
+  font-size:1.5em;
+  color:#fff;
+  font-weight: 500;
+}
+
 ul {
   list-style: none;
   padding:0;
@@ -111,7 +117,7 @@ span.view-more-link:hover {
 }
 
 .intro {
-  line-height:1.5em;
+  line-height:30px;
   font-weight: 500;
   padding-right:5%;
   padding-left:20px;
