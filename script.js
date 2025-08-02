@@ -30,6 +30,10 @@ const colors = ["#C51162", "#AA00B6", "#F48FB1", "#eb7063", "#4CAF50", "#2196F3"
 
 const files = ["home","print", "web", "code", "marketing", "genAI"];
 
+const categories = ["graphic design","digital marketing","web design","web development","branding"];
+
+const apps = ["Adobe Photoshop", "Adobe Illustrator","Canva Design","Front-End Development"];
+
 // why is 3%6 equal 3?
 
 // The modulo operator, often represented by the symbol %, gives the remainder of a division. It essentially tells you what's left over after dividing one number by another. For example, 7 modulo 3 (written as 7 % 3) equals 1, because 7 divided by 3 is 2 with a remainder of 1. 
